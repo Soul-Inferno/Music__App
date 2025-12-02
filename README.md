@@ -1,6 +1,6 @@
-# project1
+# Music App
 
-A new Flutter project.
+A new Flutter project created solely out of spite.
 
 ## Getting Started
 
